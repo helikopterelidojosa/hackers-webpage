@@ -1,7 +1,3 @@
-a{
-    color: hotpink;
- }   
-
 /* unvisited link */
     a:link {
     color: white;
@@ -78,5 +74,5 @@ margin-top: 20;
     padding-bottom: 4px;
     padding-left: 6px;
   
-    height: 30px
+    height: 30px;
 }
